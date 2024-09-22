@@ -10,6 +10,10 @@ This is a simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 - Displays a congratulatory message when a player wins, with an animated overlay.
 - A simple, responsive design with smooth animations.
 
+## Preview
+![Screenshot 2024-09-22 220104](https://github.com/user-attachments/assets/21f0484c-d62b-42d6-bc47-21c91bf07428)
+
+
 ## How to Play
 1. Players take turns clicking on the boxes. Player 'O' starts first.
 2. The game continues until one player gets three of their marks in a row (horizontally, vertically, or diagonally).
